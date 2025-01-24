@@ -1,4 +1,4 @@
-# VoicevoxCoreSharp
+ # VoicevoxCoreSharp
 
 [voicevox_core](https://github.com/voicevox/voicevox_core) を C# から使用するためのラッパー。
 薄いラッパーであるため、基本的には voicevox_core のドキュメントを参照し使用できます。
